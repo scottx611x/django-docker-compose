@@ -22,7 +22,7 @@ Demo of how one can utilize docker-compose to run a basic Django app
 - 🎉🎊🎊🎉
 
 ## Tests:
-- `docker-compose run app python3 manage.py test`
+- `docker-compose run django python3 manage.py test`
 
 ## Shutting down:
 - `Ctrl + C` or `docker-compose down`
